@@ -25,12 +25,11 @@ We would love your help with any of the associated tasks, and in order of import
 
 All of us have full lives with various priorities.
 We are prioritizing this project in ours and setting a weekly work meeting on Thursday nights, alternating locations in SF and Oakland.
-If you do not have the bandwidth for this project right now -- we totally understand, and hope we can find a way to make participating easier in the future!
+If you do not have the bandwidth for this project right now -- we totally understand, and we hope we can find a way to make participating easier in the future!
 
-Please take one of the following actions right now:
-- Hit reply and say “Thanks for reaching out, but I’m not interested in helping at this time”.
-- Hit reply and say “I am super-excited to help, please add me to your mailing list!”
-- Add the following event to your calendar: <event link>
+Please take a moment to reply with some form of:
+A: “I am super-excited to help, please add me to your mailing list!”
+B: “Thanks for reaching out, but I’m not interested in helping at this time”.
 
 Thanks,
 Igor & Stacey
