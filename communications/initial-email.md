@@ -30,7 +30,7 @@ Igor & Stacey
 
  <a name="footnote1">1</a>: examples: inventory your home and transportation energy use, volunteer your time for a local non-profit, plan your donation budget and where it’s going, get involved in local politics/issues, give up meat for a month, etc.
 
-<a name="myfootnote2">2</a>: In a crude attempt to summarize all our readings and conversations on these topics, squashing all nuance and “well but what abouts”: Human civilization is totally fucked drastically impacts our planetary ecosystem.
+<a name="footnote2">2</a>: In a crude attempt to summarize all our readings and conversations on these topics, squashing all nuance and “well but what abouts”: Human civilization is totally fucked drastically impacts our planetary ecosystem.
 Humans are struggling to understand and model the full scope of these impacts and the spectrum of possible outcomes for our future.
 Some of these are irreversible and already destroying plant, animal, and human livelihoods.
 For others, we can still change course so as to not totally fuck up the Earth.
@@ -39,6 +39,6 @@ Common responses to this situation include: 1) it’s not a serious/real problem
 We know 1) and 2) are bullshit and want to make 3) easier.
 More eloquent inspiration: Work that Reconnects, Project Drawdown.
 
-<a name="myfootnote3">3</a>: Observations: it’s really hard to give up, say, eating meat or frequent plane travel with zero understanding—and sometimes with active criticism, ridicule, and opposition—from your friends, family, and extended community.
+<a name="footnote3">3</a>: Observations: it’s really hard to give up, say, eating meat or frequent plane travel with zero understanding—and sometimes with active criticism, ridicule, and opposition—from your friends, family, and extended community.
 Default society enforces and fetishizes meat-eating and flying (c.f. bacon, foodie culture, probably your grandmother’s cooking, the tourism industry, instagram, status signaling by where you’ve traveled).
 Hypothesis: behavior change would be much easier within a dedicated group to witness, encourage, support, and celebrate the collective positive impact of our actions. 
