@@ -4,7 +4,7 @@ Dear friends,
 We are starting a climate change action project -- currently named Spaceship Earth.
 We're reaching out to you because you've either expressed interest in helping with this project, or because we think your interests & skillsets are relevant and we __hope__ you’re interested in hearing more.
 Our intention is to organize a group of folks to collectively commit to monthly concrete actions <sup>[1](#footnote1)</sup>.
-These actions will improve our individual impact on the planet, and grow environmental and community sustainability and conciousness.
+These actions will improve our individual impact on the planet and grow environmental and community sustainability and consciousness.
 We want to embody and inspire the changes we see as critical to humanity’s survival <sup>[2](#footnote2)</sup> — and to support each other in this often-daunting effort <sup>[3](#footnote3)</sup>.
 
 The MVP entails:
@@ -46,7 +46,7 @@ Common responses to this situation include:
 2) my individual-scale actions won’t make any difference, and
 3) it’s too hard to change my behavior/where do I even start.
 We know 1) and 2) are bullshit and want to make 3) easier.
-More eloquent inspiration: Work that Reconnects, Project Drawdown.
+More eloquent inspiration: (Work that Reconnects)[https://workthatreconnects.org/three-dimensions-of-the-great-turning/], (Project Drawdown)[https://www.drawdown.org/].
 
 <a name="footnote3">[3]</a>:
 Observations: it’s really hard to give up, say, eating meat or frequent plane travel with zero understanding -- and sometimes with active criticism, ridicule, and opposition -- from your friends, family, and extended community.
