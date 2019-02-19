@@ -25,8 +25,11 @@ We would love your help with any of the associated tasks, and in order of import
 
 All of us have full lives with various priorities.
 We are prioritizing this project in ours and setting a weekly work meeting on Thursday nights, alternating locations in SF and Oakland.
-We hope you can join for some of these, and welcome any form/level of involvement.
-If you are excited and have the bandwidth to contribute, please let us know in what form! 
+If you do not have the bandwidth for this project right now -- we totally understand, and we hope we can find a way to make participating easier in the future!
+
+Please take a moment to reply with some form of:
+A: “I am super-excited to help, please add me to your mailing list!”
+B: “Thanks for reaching out, but I’m not interested in helping at this time”.
 
 Thanks,
 Igor & Stacey
