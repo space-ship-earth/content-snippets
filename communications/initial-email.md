@@ -23,14 +23,9 @@ We would love your help with any of the associated tasks, and in order of import
 - general enthusiasm/support for the project
 - any other ideas for engagement & impact
 
-All of us have full lives with various priorities.
-We are prioritizing this project in ours and setting a weekly work meeting on Thursday nights, alternating locations in SF and Oakland.
-If you do not have the bandwidth for this project right now -- we totally understand, and hope we can find a way to make participating easier in the future!
-
-Please take one of the following actions right now:
-- Hit reply and say “Thanks for reaching out, but I’m not interested in helping at this time”.
-- Hit reply and say “I am super-excited to help, please add me to your mailing list!”
-- Add the following event to your calendar: <event link>
+We would love your help with any of these tasks, and there are opportunities for both synchronous and asynchronous assistence.
+As a next step, __please reply that you're interested in helping out__, and we will add you to a mailing list which will include further discussion.
+If you don't have bandwidth to help our right now, that's okay too! Stay tuned for more opportunities to collaborate.
 
 Thanks,
 Igor & Stacey
